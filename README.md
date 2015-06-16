@@ -1,0 +1,1 @@
+Esta aplicación de ejemplo comprueba si un número aleatorio es mayor o menos de 0.5
